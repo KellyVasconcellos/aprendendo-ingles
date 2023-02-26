@@ -12,7 +12,7 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Apendendo Ingês** é uma landing page de tradução que foi criado dentro do curso [Introdução ao Angular, Jorge Sant Ana](https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/learn/lecture/6767396#questions) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Aprendendo Inglês** é uma landing page de tradução que foi criado dentro do curso [Introdução ao Angular, Jorge Sant Ana](https://www.udemy.com/course/curso-de-desenvolvimento-web-com-es6-typescript-e-angular-4/learn/lecture/6767396#questions) com o intuito de colocar em prática todo conteúdo estudado durante o curso
 
 ---
 
