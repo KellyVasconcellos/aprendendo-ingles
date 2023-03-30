@@ -12,16 +12,16 @@
 
 ## 🔖&nbsp; Sobre
 
-O projeto **Aprendendo Inglês** é uma landing page de tradução que foi criado dentro do curso [Introdução ao Angular](https://www.udemy.com) com o intuito de colocar em prática todo conteúdo estudado durante o curso
+O projeto **Aprendendo Inglês** é uma landing page de tradução que foi criada dentro do curso [Introdução ao Angular](https://www.udemy.com) com o intuito de colocar em prática todo conteúdo estudado durante o curso.
 
 ---
 
 ## 🚀 Tecnologias utilizadas
 
-O projeto foi desenvolvido utilizando as seguintes tecnologias
+O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Angular](https://angular.io/)
